@@ -1,0 +1,5 @@
+inherit gnome2
+
+
+HOMEPAGE="https://launchpad.net/libindicate"
+SRC_URI="http://launchpad.net/libindicate/${PV[1]}.${PV[2]}/${PV}/+download/${P}.tar.gz"
